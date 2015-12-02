@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da5035a3-e89c-4cf1-8ec1-7b83c065820f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/docs/attack-docs/remote-cmd-exfiltration/Web-Shells-rev2.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/docs/attack-docs/remote-cmd-exfiltration/netcat_cheat_sheet_v1.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/docs/attack-docs/remote-cmd-exfiltration/windows_command_line_sheet_v1.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/docs/attack-docs/sqli/docs.oracle_cheat.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/docs/attack-docs/xss/docs.wasc-scriptmapping/images/ff2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/docs/attack-docs/xss/docs.wasc-scriptmapping/images/ie7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/docs/attack-docs/xss/docs.wasc-scriptmapping/images/safari3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/docs/misc/Wireshark_Display_Filters.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/exe/nc.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/jsp/CmdServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/jsp/ListServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/jsp/UpServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ejemplos-plantillas.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/MANIFEST.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/cyberscan_lib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/cyberscan_lib/api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/cyberscan_lib/cyberscan.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/cyberscan_lib/data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/cyberscan_lib/doc/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/cyberscan_lib/doc/en/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/cyberscan_lib/doc/en/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/cyberscan_lib/doc/en/make.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/cyberscan_lib/doc/en/source/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/cyberscan_lib/doc/en/source/advanced.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/cyberscan_lib/doc/en/source/conf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/cyberscan_lib/doc/en/source/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/cyberscan_lib/libs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/cyberscan_lib/libs/scanner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyberscan/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python-nmap/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python-nmap/run_nmap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single-files/arp_flood.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single-files/demo-fuzzing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single-files/dhcp_starvation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single-files/dns_collect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single-files/port-scanner-multithread.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single-files/port-scanner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single-files/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/MANIFEST.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/doc/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/doc/en/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/doc/en/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/doc/en/make.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/doc/en/source/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/doc/en/source/advanced.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/doc/en/source/conf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/doc/en/source/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/libs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/libs/fuzz_utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/.directory" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/_copyright.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/all-attacks/all-attacks-unix.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/all-attacks/all-attacks-win.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/all-attacks/all-attacks-xplatform.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/business-logic/CommonDebugParamNames.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/business-logic/CommonMethodNames.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/control-chars/HexValsAllBytes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/control-chars/NullByteRepresentations.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/disclosure-directory/directory-indexing-generic.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/disclosure-localpaths/unix/common-unix-httpd-log-locations.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/disclosure-source/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/disclosure-source/source-disc-cmd-exec-traversal.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/disclosure-source/source-disclosure-generic.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/disclosure-source/source-disclosure-microsoft.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/email/invalid-email-addresses.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/email/valid-email-addresses.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/alt-extensions-asp.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/alt-extensions-coldfusion.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/alt-extensions-jsp.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/alt-extensions-perl.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/alt-extensions-php.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/file-ul-filter-bypass-commonly-writable-directories.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/file-ul-filter-bypass-microsoft-asp-filetype-bf.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/file-ul-filter-bypass-microsoft-asp.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/file-ul-filter-bypass-ms-php.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/file-ul-filter-bypass-x-platform-generic.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/file-ul-filter-bypass-x-platform-php.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/invalid-filenames-linux.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/invalid-filenames-microsoft.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/invalid-filesystem-chars-microsoft.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/file-upload/invalid-filesystem-chars-osx.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/format-strings/format-strings.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/html_js_fuzz/html_tags.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/html_js_fuzz/javascript_events.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/http-protocol/crlf-injection.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/http-protocol/crlf-notes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/http-protocol/docs.http-method-defs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/http-protocol/hpp.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/http-protocol/http-header-cache-poison.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/http-protocol/http-protocol-methods.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/http-protocol/http-request-header-field-names.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/http-protocol/http-response-header-field-names.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/http-protocol/known-uri-types.fuzz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/http-protocol/user-agents.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/integer-overflow/integer-overflows.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/ldap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/ldap/ldap-injection.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/lfi/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/lfi/common-ms-httpd-log-locations.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/lfi/common-unix-httpd-log-locations.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/mimetypes/MimeTypes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/os-cmd-execution/Commands-Linux.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/os-cmd-execution/Commands-OSX.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/os-cmd-execution/Commands-Windows.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/os-cmd-execution/Commands-WindowsPowershell.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/os-cmd-execution/OSCommandInject.Windows.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/os-cmd-execution/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/os-cmd-execution/command-execution-unix.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/os-cmd-execution/docs/command-execution-cheatsheat-unix.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/os-cmd-execution/source-disc-cmd-exec-traversal.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/os-cmd-execution/useful-commands-unix.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/os-cmd-execution/useful-commands-windows.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/os-dir-indexing/directory-indexing.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/path-traversal/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/path-traversal/path-traversal-windows.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/path-traversal/traversals-8-deep-exotic-encoding.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/rfi/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/rfi/rfi.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/server-side-include/server-side-includes-generic.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/detect/GenericBlind.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/detect/MSSQL.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/detect/MSSQL_blind.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/detect/MySQL.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/detect/MySQL_MSSQL.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/detect/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/detect/oracle.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/detect/xplatform.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/exploit/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/exploit/db2-enumeration.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/exploit/ms-sql-enumeration.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/exploit/mysql-injection-login-bypass.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/exploit/mysql-read-local-files.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/exploit/postgres-enumeration.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/payloads-sql-blind/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/payloads-sql-blind/payloads-sql-blind-MSSQL-INSERT.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/payloads-sql-blind/payloads-sql-blind-MSSQL-WHERE.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/payloads-sql-blind/payloads-sql-blind-MySQL-INSERT.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/payloads-sql-blind/payloads-sql-blind-MySQL-ORDER_BY.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/sql-injection/payloads-sql-blind/payloads-sql-blind-MySQL-WHERE.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/xml/xml-attacks.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/xpath/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/xpath/xpath-injection.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/xss/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/xss/all-encodings-of-lt.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/xss/default-javascript-event-attributes.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/xss/xss-other.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/xss/xss-rsnake.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/attack/xss/xss-uri.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/UserAgent/UserAgentListCommon.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/UserAgent/UserAgentListLarge.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/UserAgent/UserAgents.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/dns/CcTLD.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/dns/alexaTop1mAXFRcommonSubdomains.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/dns/dnsmapCommonSubdomains.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/dns/gTLD.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/.directory" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/KitchensinkDirectories.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/Randomfiles.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/UnixDotfiles.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cgi/CGI_HTTP_POST.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cgi/CGI_HTTP_POST_Windows.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cgi/CGI_Microsoft.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cgi/CGI_XPlatform.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cms/drupal_plugins.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cms/drupal_themes.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cms/joomla_plugins.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cms/joomla_themes.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cms/php-nuke.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cms/wordpress.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cms/wp_common_theme_files.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cms/wp_plugins.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cms/wp_plugins_top225.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cms/wp_themes.fuzz.readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/cms/wp_themes.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/3CharExtBrute.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/Extensions.Backup.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/Extensions.Common.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/Extensions.Compressed.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/Extensions.Mostcommon.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/Extensions.Skipfish.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/WordlistSkipfish.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/copy_of.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-large-directories-lowercase.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-large-directories.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-large-extensions-lowercase.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-large-extensions.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-large-files-lowercase.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-large-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-large-words-lowercase.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-large-words.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-medium-directories-lowercase.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-medium-directories.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-medium-extensions-lowercase.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-medium-extensions.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-medium-files-lowercase.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-medium-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-medium-words-lowercase.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-medium-words.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-small-directories-lowercase.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-small-directories.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-small-extensions-lowercase.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-small-extensions.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-small-files-lowercase.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-small-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-small-words-lowercase.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/filename-dirname-bruteforce/raft-small-words.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/login-file-locations/Logins.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/password-file-locations/Passwords.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/php/PHP.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/php/PHP_CommonBackdoors.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/proxy-conf.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/tftp.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/ADFS.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/AdobeXML.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/Apache.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/ApacheTomcat.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/ColdFusion.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/FatwireCMS.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/Frontpage.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/HTTP_POST_Microsoft.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/Hyperion.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/IIS.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/JBoss.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/JRun.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/JavaServlets_Common.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/LotusNotes.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/Netware.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/Oracle9i.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/OracleAppServer.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/SAP.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/Sharepoint.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/SiteMinder.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/SunAppServerGlassfish.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/SuniPlanet.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/Vignette.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/Weblogic.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/discovery/predictable-filepaths/webservers-appservers/Websphere.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/docs/attack-docs/rfi-cheatsheet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/docs/attack-docs/source-directory-file-indexing-cheatsheet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/docs/attack-docs/sqli/docs.sql_injection_cheatsheet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/docs/attack-docs/xss/docs.wasc-scriptmapping/ScriptMapping_Release_26Nov2007.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/docs/attack-docs/xss/docs.wasc-scriptmapping/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/docs/misc/KL0209LIT_fffap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/docs/misc/htmlcodes-cheatsheet.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/regex/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/regex/breakpoint-ignores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/regex/errors.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/regex/nsa-wordlist.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/regex/pii.fuzz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/regex/pii.readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/regex/sessionid.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/asp/cmd-asp-5.1.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/asp/cmd.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/asp/cmd.aspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/asp/cmdasp.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/asp/cmdasp.aspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/asp/list.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/asp/list.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/asp/ntdaddy.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/asp/up.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/c/cmd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/cfm/cfExec.cfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/cfm/cfSQL.cfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/cfm/cmd.cfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/jsp/CmdServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/jsp/ListServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/jsp/UpServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/jsp/browser.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/jsp/cmd.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/jsp/cmdjsp.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/jsp/jsp-reverse.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/jsp/list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/jsp/up.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/jsp/win32/cmd_win32.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/jsp/win32/up_win32.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/php/cmd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/php/list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/php/php-backdoor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/php/simple-backdoor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/php/up.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/pl-cgi/cmd.pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/pl-cgi/list.pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/pl-cgi/perlcmd.cgi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/pl-cgi/up.pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/servlet/CmdServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/servlet/ListServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/servlet/UpServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/sh/cmd.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/sh/list.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/web-backdoors/sh/up.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-misc/common-http-ports.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-misc/us_cities.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-misc/wordlist-alphanumeric-case.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-misc/wordlist-common-snmp-community-strings.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-misc/wordlist-dna.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/db2/db2_default_pass.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/db2/db2_default_user.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/db2/db2_default_userpass.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/faithwriters.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/generic-listpairs/http_default_pass.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/generic-listpairs/http_default_userpass.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/generic-listpairs/http_default_users.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/names/namelist.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/oracle/_hci_oracle_passwords.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/oracle/_oracle_default_passwords.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/oracle/oracle_login_password.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/oracle/oracle_logins.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/oracle/oracle_passwords.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/passwds/john.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/passwds/phpbb.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/passwds/twitter.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/passwds/weaksauce.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/postgres/postgres_default_pass.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/postgres/postgres_default_user.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/postgres/postgres_default_userpass.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/tomcat/tomcat_mgr_default_pass.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/tomcat/tomcat_mgr_default_userpass.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/tomcat/tomcat_mgr_default_users.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/unix-os/unix_passwords.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/resources/fuzzdb-master/wordlists-user-passwd/unix-os/unix_users.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/url_bruteforcer.py" />
+    </list>
+    <ignored path="ejemplos-plantillas.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ejemplos-plantillas$port_scanner_multithread.coverage" NAME="port-scanner-multithread Coverage Results" MODIFIED="1449048148584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/single-files" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ejemplos-plantillas" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor vertical-scroll-proportion="0.27142859">
+                <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/single-files/requirements.txt" />
+        <option value="$PROJECT_DIR$/single-files/port-scanner-multithread.py" />
+        <option value="$PROJECT_DIR$/single-files/port-scanner.py" />
+        <option value="$PROJECT_DIR$/single-files/demo-fuzzing.py" />
+        <option value="$PROJECT_DIR$/single-files/arp_flood.py" />
+        <option value="$PROJECT_DIR$/single-files/dhcp_bad_boy.py" />
+        <option value="$PROJECT_DIR$/single-files/sniff-basico.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/python-nmap/run_nmap.py" />
+        <option value="$PROJECT_DIR$/cyberscan/cyberscan_lib/cyberscan.py" />
+        <option value="$PROJECT_DIR$/cyberscan/cyberscan_lib/libs/scanner.py" />
+        <option value="$PROJECT_DIR$/cyberscan/cyberscan_lib/api.py" />
+        <option value="$PROJECT_DIR$/url-bruteforcer/pycapy_lib/Pycapy.py" />
+        <option value="$PROJECT_DIR$/url-bruteforcer/pycapy_lib/api.py" />
+        <option value="$PROJECT_DIR$/url-bruteforcer/pycapy_lib/doc/en/source/conf.py" />
+        <option value="$PROJECT_DIR$/url-bruteforcer/pycapy_lib/doc/en/source/index.rst" />
+        <option value="$PROJECT_DIR$/url-bruteforcer/setup.py" />
+        <option value="$PROJECT_DIR$/cyberscan/LICENSE" />
+        <option value="$PROJECT_DIR$/url-bruteforcer/LICENSE" />
+        <option value="$PROJECT_DIR$/url-bruteforcer/README.md" />
+        <option value="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/doc/en/source/index.rst" />
+        <option value="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/data.py" />
+        <option value="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/url_bruteforcer.py" />
+        <option value="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/api.py" />
+        <option value="$PROJECT_DIR$/url-bruteforcer/requirements.txt" />
+        <option value="$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/libs/fuzz_utils.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="23" />
+    <option name="width" value="1916" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Django</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>DjangoUnresolvedUrlInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ejemplos-plantillas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ejemplos-plantillas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ejemplos-plantillas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ejemplos-plantillas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ejemplos-plantillas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="url-bruteforcer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/url-bruteforcer" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/opt/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.1310705" />
+    <property name="SearchEverywhereHistoryKey" value="git&#9;ACTION&#9;Git.Init&#10;cache&#9;null&#9;null&#10;plugins&#9;null&#9;null&#10;jdk&#9;ACTION&#9;SwitchBootJdk&#10;show log&#9;ACTION&#9;ShowLog" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/single-files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/single-files" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.port-scanner-multithread">
+    <configuration default="false" name="port-scanner-multithread" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/single-files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ejemplos-plantillas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/single-files/port-scanner-multithread.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ejemplos-plantillas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ejemplos-plantillas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ejemplos-plantillas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ejemplos-plantillas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ejemplos-plantillas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ejemplos-plantillas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ejemplos-plantillas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.port-scanner-multithread" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.port-scanner-multithread" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da5035a3-e89c-4cf1-8ec1-7b83c065820f" name="Default" comment="" />
+      <created>1448776385532</created>
+      <option name="number" value="Default" />
+      <updated>1448776385532</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="23" width="1916" height="1057" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22542734" sideWeight="0.49637306" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22542734" sideWeight="0.50362694" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Pomodoro" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/single-files/port-scanner-multithread.py</url>
+          <line>33</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/single-files/dns_collect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-nmap/run_nmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-nmap/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/port-scanner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/dns_collect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-nmap/run_nmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-nmap/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/port-scanner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/dns_collect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-nmap/run_nmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-nmap/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/port-scanner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/dns_collect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-nmap/run_nmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-nmap/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/port-scanner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/dns_collect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-nmap/run_nmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/port-scanner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/dns_collect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-nmap/run_nmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-nmap/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/arp_flood.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20277481">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-nmap/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-nmap/run_nmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36499467">
+          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyberscan/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5741729">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/port-scanner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.060832445">
+          <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyberscan/cyberscan_lib/libs/scanner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24332978">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyberscan/cyberscan_lib/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31056562">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url-bruteforcer/CHANGELOG">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/port-scanner-multithread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30416223">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#116#1" expanded="false" />
+            <element signature="e#118#134#0" expanded="false" />
+            <element signature="e#310#344#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/doc/en/source/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20299146">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/doc/en/source/advanced.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/doc/en/source/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="181" column="21" selection-start-line="181" selection-start-column="21" selection-end-line="181" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyberscan/cyberscan_lib/cyberscan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10683761">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url-bruteforcer/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.081196584">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.857906">
+          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+          <folding>
+            <element signature="e#72#82#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url-bruteforcer/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24893162">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyberscan/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24358974">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url-bruteforcer/README.md">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18832599">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.16703297">
+            <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="11" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url-bruteforcer/MANIFEST.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/libs/fuzz_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16239317">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="e#25#38#0" expanded="true" />
+            <element signature="e#490#579#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url-bruteforcer/url_bruteforcer_lib/url_bruteforcer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.020299146">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="74" selection-end-column="26" />
+          <folding>
+            <element signature="e#25#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url-bruteforcer/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16239317">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/demo-fuzzing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.020299146">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#25#111#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/dhcp_starvation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.060897436">
+          <caret line="3" column="71" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-files/dns_collect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37179488">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0124533">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.27142859">
+            <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
