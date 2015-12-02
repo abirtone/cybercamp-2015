@@ -2,7 +2,7 @@ Cybercamp 2015
 ==============
 
 
-![Logo](https://raw.githubusercontent.com/abirtone/cybercamp-2015/master/banner.png)
+![Logo](https://raw.githubusercontent.com/abirtone/cybercamp-2015/ac6f8f9eab943756f254a68aecbaa5d6772c37ca/banner.png)
 
 
 Qué es Cybercamp 2015
