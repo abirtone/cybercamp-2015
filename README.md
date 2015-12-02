@@ -4,8 +4,6 @@ Cybercamp 2015
 
 ![Logo](https://raw.githubusercontent.com/abirtone/cybercamp-2015/master/banner.png)
 
-*url_bruteforcer: Descubridor de directorios en URLs por fuerza bruta*
-
 
 Qué es Cybercamp 2015
 ----------------------
@@ -24,16 +22,16 @@ Video [en] | https://www.youtube.com/watch?v=eqxpuSzI0RQ
 
 Este repositorio contiene los siguientes códigos de ejemplo:
 
-+ cyberscan: scanner de puertos usando la metodología OMSTD y el motor de creación STB para crear herramientas escalables y mantenibles.
-+ python-nmap: convertidor de ficheros XML de nmap en ficheros JSON.
-+ url-bruteforcer: herramienta, basada en STB y OMSTD, capaz de hacer un descubrimiento por fuerza bruta de URLs, basado en diccionarios, con la capacidad de distinguir de manera inteligente las páginas de error con el fin de filtrar falsos positivos e incrementar el ratio de acierto.
-+ single-files:
-   + arp_flood.py: implementación del ataque ARP flood con Scapy.
-   + demo-fuzzing.py: ejemplo de un ataque de fuzzing usando Scapy y paquetes ICMP.
-   + dhcp_starvation.py: implementación de ataque DHCP starvation con Scapy. Capaz de agotar el poll de IPs en servidores DHCP mal configurados.
-   + port-scanner.py: simple escaneador de puertos mono-hilo con Scapy.
-   + port-scanner-multithread.py: simple escaneador de puertos multi-hilo con Scapy.
-   + dns_collect.py: analizador de tráfico de red, capaz de extraer todas las consultas DNS realizadas en una LAN.
++ **cyberscan**: scanner de puertos usando la metodología OMSTD y el motor de creación STB para crear herramientas escalables y mantenibles.
++ **python-nmap**: convertidor de ficheros XML de nmap en ficheros JSON.
++ **url-bruteforcer**: herramienta, basada en STB y OMSTD, capaz de hacer un descubrimiento por fuerza bruta de URLs, basado en diccionarios, con la capacidad de distinguir de manera inteligente las páginas de error con el fin de filtrar falsos positivos e incrementar el ratio de acierto.
++ **single-files**:
+   + *arp_flood.py*: implementación del ataque ARP flood con Scapy.
+   + *demo-fuzzing.py*: ejemplo de un ataque de fuzzing usando Scapy y paquetes ICMP.
+   + *dhcp_starvation.py*: implementación de ataque DHCP starvation con Scapy. Capaz de agotar el poll de IPs en servidores DHCP mal configurados.
+   + *port-scanner.py*: simple escaneador de puertos mono-hilo con Scapy.
+   + *port-scanner-multithread.py*: simple escaneador de puertos multi-hilo con Scapy.
+   + *dns_collect.py*: analizador de tráfico de red, capaz de extraer todas las consultas DNS realizadas en una LAN.
 
 Referencias
 -----------
